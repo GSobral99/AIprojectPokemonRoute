@@ -3,3 +3,4 @@ scikit-fuzzy
 pyswip
 networkx
 pillow
+packaging
